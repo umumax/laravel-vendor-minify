@@ -1,5 +1,5 @@
 {
-    "name": "umumax/laravel-vendor-minify",
+    "name": "umumax/vendor-minify",
     "description": "A vendor minify package, to remove tests and documentation and minifing all php files to save space",
     "keywords": ["laravel", "vendor", "cleanup", "minify"],
     "license": "MIT",
