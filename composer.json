@@ -18,14 +18,14 @@
     },
     "autoload": {
         "psr-0": {
-            "Umumax\\VendorMinify": "src/"
+            "Goszowski\\VendorMinify": "src/"
         }
     },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
-                "Umumax\\VendorMinify\\VendorMinifyServiceProvider"
+                "Goszowski\\VendorMinify\\VendorMinifyServiceProvider"
             ]
         }
     }
