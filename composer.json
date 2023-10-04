@@ -1,5 +1,5 @@
 {
-    "name": "goszowski/laravel-vendor-minify",
+    "name": "umumax/laravel-vendor-minify",
     "description": "A vendor minify package, to remove tests and documentation and minifing all php files to save space",
     "keywords": ["laravel", "vendor", "cleanup", "minify"],
     "license": "MIT",
@@ -18,14 +18,14 @@
     },
     "autoload": {
         "psr-0": {
-            "Goszowski\\VendorMinify": "src/"
+            "Umumax\\VendorMinify": "src/"
         }
     },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
-                "Goszowski\\VendorMinify\\VendorMinifyServiceProvider"
+                "Umumax\\VendorMinify\\VendorMinifyServiceProvider"
             ]
         }
     }
