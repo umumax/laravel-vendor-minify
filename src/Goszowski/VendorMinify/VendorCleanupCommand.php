@@ -52,6 +52,11 @@ class VendorCleanupCommand extends Command
         'Dockerfile',
         'docker-compose.yml',
         'TODO*',
+        'Docker',
+        'VERSION.md',
+        '.github',
+        'VERSION',
+        'SECURITY.md',
     ];
 
     /**
